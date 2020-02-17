@@ -14,6 +14,8 @@ bs4 = "*"
 django-extensions = "*"
 pandas = "*"
 djangorestframework = "*"
+ipython = "*"
+django-imagekit = "*"
 
 [requires]
 python_version = "3.6"
